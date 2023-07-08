@@ -4,5 +4,11 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## Salman Faris
+
+Hi 👋 , I'm a passionate technology enthusiast 🤓 , maker 🛠️ and interested to explore new technologies.  I work in electronics, programming and currently exploring the tinyML world. 
+
+
+
+
+
