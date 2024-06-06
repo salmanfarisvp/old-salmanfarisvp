@@ -1,13 +1,13 @@
 ---
 title: Play Chrome's Dino Game Physically 🦕
 date: 2021-07-12 10:00:00 +/-0530
-categories: [Blog, Tutorial]
+categories: [Project, Tutorial]
 tags: [project,tinyml,hmi]
 ---
 
 ![Demo](https://hackster.imgix.net/uploads/attachments/1323340/powered_by_(1)_THUZrCwShJ.gif?auto=format%2Ccompress&gifq=35&w=900&h=675&fit=min&fm=mp4)
 
-TL;DR: In this project, we will physically play the Chrome dino gamewith the help of machine learning and embedded electronics.
+TL;DR: In this project, we will physically play the Chrome dino game with the help of machine learning and embedded electronics.
 
 Due to the 2nd wave of a global pandemic, I was kept inside my house without doing much physical activity, Last month, I got an Intestinal gas related issue and consulted a doctor, and he mentioned doing small physical activities will help avoid these kinds of problems, I tried to use a mobile application that helped to do physical activities without equipment, I also invited my little nephews to do exercise with me, but they are not interested. Then I thought of doing something fun and burning the calory. That's how the project was born.
 
