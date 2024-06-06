@@ -21,7 +21,7 @@ The board comes with Type-C and Grove interfaces, supports ADC and IIC transmiss
 💡 If you are looking for a 4-inch Touch Screen based on to prototype project or product, SenseCAP Indicator D1Pro is worth considering. I'll experiment more and share my insights here. Stay tuned! 👋
 
 
-![SenseCAP Indicator D1Pro](../../assets/2023-10-01-SenseCAP-Indicator -D1Pro-Small-Review/D1ProInside.jpeg)
+![SenseCAP Indicator D1Pro](../../assets/2023-10-01-SenseCAP-Indicator-D1Pro-Small-Review/D1ProInside.jpeg)
 _SenseCAP Indicator D1Pro Inside_
 
 #prototyping #electronics
