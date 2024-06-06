@@ -96,24 +96,4 @@ Your participation has been invaluable, and I extend my deepest gratitude to the
 
 A heartfelt thank you also goes out to the MakerGram team—Swalah, Abhay, Fasil, Zain, Rafi, Shamsudheen—for their exceptional contributions and collaborative spirit that made this exploration in tinyML an incredible adventure. Your efforts have been instrumental in shaping this experience.
 
-Stay tuned for our upcoming December meetups, where we’ll dive deeper into the world of tinyML and explore exciting new possibilities
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Stay tuned for our upcoming December meetups, where we’ll dive deeper into the world of tinyML and explore exciting new possibilities.
