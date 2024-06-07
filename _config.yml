@@ -44,8 +44,8 @@ social:
     - https://twitter.com/0xsalfar # change to your twitter homepage
     - https://github.com/salmanfarisvp # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/salmanfarisnbr
+    - https://www.linkedin.com/in/salmanfarisvp
 
 google_site_verification: # fill in to your verification string
 
@@ -92,10 +92,10 @@ comments:
     issue_term:  # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo:  # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
+    repo:  salmanfarisvp/salmanfarisvp.github.io # <gh-username>/<repo>
+    repo_id: R_kgDOJ5Fxjg
+    category: General
+    category_id: DIC_kwDOJ5Fxjs4CXwnM
     mapping: # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
