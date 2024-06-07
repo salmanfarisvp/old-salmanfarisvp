@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'comments.active
-img_cdn: 
+img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
 avatar: assets/img/salman.png
@@ -93,8 +93,8 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo:  # <gh-username>/<repo>
-    repo_id: 
-    category: 
+    repo_id:
+    category:
     category_id:
     mapping: # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
