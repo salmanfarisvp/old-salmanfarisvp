@@ -1,5 +1,6 @@
 ---
 title: TinyML Innovation Camp at Fablab UAE
+author: salman
 date: 2023-12-29 10:00:00 +/-0530
 categories: [Workshop, tinyML]
 tags: [Workshop,Community]

@@ -1,5 +1,6 @@
 ---
 title: FABHer 2023 TinyML Workshop for Women.
+author: salman
 date: 2023-10-23 10:00:00 +/-0530
 categories: [Workshop, tinyML]
 tags: [Workshop,Community]

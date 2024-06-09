@@ -1,5 +1,6 @@
 ---
 title: TinyML Workshop at Model Engineering College Kochi.
+author: salman
 date: 2023-06-23 10:00:00 +/-0530
 categories: [Workshop, tinyML]
 tags: [Workshop,Community]

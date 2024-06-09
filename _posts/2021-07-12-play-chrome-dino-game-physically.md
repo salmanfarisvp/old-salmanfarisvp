@@ -1,5 +1,6 @@
 ---
 title: Play Chrome's Dino Game Physically 🦕
+author: salman
 date: 2021-07-12 10:00:00 +/-0530
 categories: [Project, Tutorial]
 tags: [project,tinyml,hmi]

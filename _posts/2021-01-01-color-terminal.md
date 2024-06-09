@@ -1,10 +1,11 @@
 ---
 title: Color Terminal 🎨
+author: salman
 date: 2021-01-01 10:00:00 +/-0530
 categories: [Project, Tutorial]
 tags: [project]
 ---
-Originally Published on [Hackster.io/Salmanfarisvp](https://www.hackster.io/Salmanfarisvp/color-terminal-7d6650)
+Originally Published on [hackster.io/Salmanfarisvp](https://www.hackster.io/Salmanfarisvp/color-terminal-7d6650)
 
 TL;DR -The Color Terminal can be used to pick color from physical things by scanning its surface with Seeed Wio Terminal and TCS34725.
 

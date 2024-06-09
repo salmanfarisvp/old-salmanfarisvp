@@ -1,5 +1,6 @@
 ---
-title: Host a website on GitHub for free using GitHub pages 😎 ( Part 1)  .
+title: Host a website on GitHub for free using GitHub pages 😎 ( Part 1).
+author: salman
 date: 2020-03-30 10:00:00 +/-0530
 categories: [Blog, Tutorial]
 tags: [github,website,hosting]

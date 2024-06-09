@@ -1,5 +1,6 @@
 ---
 title: SenseCAP Indicator D1Pro
+author: salman
 date: 2023-10-01 10:00:00 +/-0530
 categories: [Blog, Review]
 tags: [hackathon]

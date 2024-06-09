@@ -1,5 +1,6 @@
 ---
 title: TinyML Triumphs - A Chronicle of October-November 2023 Workshop Series.
+author: salman
 date: 2023-12-29 10:00:00 +/-0530
 categories: [Workshop, tinyML]
 tags: [Workshop,Community]
