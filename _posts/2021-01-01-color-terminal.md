@@ -4,6 +4,9 @@ author: salman
 date: 2021-01-01 10:00:00 +/-0530
 categories: [Project, Tutorial]
 tags: [project]
+image:
+  path: ../assets/2021-01-01-color-terminal/colourTerminalCover.png
+  alt: Color Terminal Cover Photo.
 ---
 Originally Published on [hackster.io/Salmanfarisvp](https://www.hackster.io/Salmanfarisvp/color-terminal-7d6650)
 

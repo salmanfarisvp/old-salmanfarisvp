@@ -4,6 +4,9 @@ author: salman
 date: 2023-10-01 10:00:00 +/-0530
 categories: [Blog, Review]
 tags: [hackathon]
+image:
+  path: ../assets/2023-10-01-SenseCAP-Indicator-D1Pro-Small-Review/D1Pro.jpeg
+  alt: SenseCAP Indicator D1Pro.
 ---
 
 Review 📖 : Recently, I got a chance to work with Seeed Studio SenseCAP Indicator D1Pro - A 4-inch Touch Screen IoT development platform powered by ESP32S3 & RP2040.

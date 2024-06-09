@@ -4,6 +4,9 @@ author: salman
 date: 2023-10-23 10:00:00 +/-0530
 categories: [Workshop, tinyML]
 tags: [Workshop,Community]
+image:
+  path: ../assets/2023-10-23-fabher-tinyml-workshop/FABHer-group-photo.jpeg
+  alt: FABHer Group Photo.
 ---
 
 Originally posted on [Linkedin](https://www.linkedin.com/posts/salmanfarisvp_tinymlabrworkshopabrseries-fabher-women-activity-7111535608103141376-q8iM?utm_source=share&utm_medium=member_desktop)

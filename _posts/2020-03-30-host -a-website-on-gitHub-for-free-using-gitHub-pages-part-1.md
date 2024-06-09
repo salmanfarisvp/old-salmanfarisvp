@@ -4,6 +4,9 @@ author: salman
 date: 2020-03-30 10:00:00 +/-0530
 categories: [Blog, Tutorial]
 tags: [github,website,hosting]
+image:
+  path: ../assets/2020-03-30-host-a-website-on-gitHub-for-free-using-gitHub-pages-part-1/016.png
+  alt: Github Page.
 ---
 
 In this blog we are going to learn to host web pages on GitHub for free using GitHub Pages!🤩 .  we will host very simple web page like [https://0xsalfar.github.io](https://0xsalfar.github.io) from scratch to complex one.

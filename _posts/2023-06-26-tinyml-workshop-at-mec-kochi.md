@@ -4,6 +4,9 @@ author: salman
 date: 2023-06-23 10:00:00 +/-0530
 categories: [Workshop, tinyML]
 tags: [Workshop,Community]
+image:
+  path: ../assets/2023-06-26-tinyml-workshop-at-mec-kochi/MECgroupPhoto.jpg
+  alt: MEC Group Photo.
 ---
 
 Originally posted in [Linkedin](https://www.linkedin.com/posts/salmanfarisvp_tinymlabrworkshopabrseries-tinyml-tinyml-activity-7101160669881802752-fpuO?utm_source=share&utm_medium=member_desktop)

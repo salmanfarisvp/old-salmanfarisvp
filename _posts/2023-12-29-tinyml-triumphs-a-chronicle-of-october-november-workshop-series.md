@@ -4,6 +4,9 @@ author: salman
 date: 2023-12-29 10:00:00 +/-0530
 categories: [Workshop, tinyML]
 tags: [Workshop,Community]
+image:
+  path: ../assets/2023-12-29-tinyml-triumphs-a-chronicle-of-october-november-workshop-series/heroShot.jpeg
+  alt: Hero Shot.
 ---
 
 ![Mix page](../assets/2023-12-29-tinyml-triumphs-a-chronicle-of-october-november-workshop-series/heroShot.jpeg)
