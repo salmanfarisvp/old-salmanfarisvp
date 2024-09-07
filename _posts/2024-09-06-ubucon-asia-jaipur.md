@@ -30,6 +30,6 @@ I also got the opportunity to attend other exciting talks from different domains
 
 It was great to meet amazing people Bayu Aji, Dimple Kuriakose, Akash Santhosh, Till Kamppeter, Vishal Arya, Navendu Pottekkat, Ananthu C V, Khairul Aizat Kamarudzzaman and more 🎉. 
 
-![](../assets/2024-09-06-ubucon-asia-jaipur/salmanPhoto.jpg)
+![Salman Photo](../assets/2024-09-06-ubucon-asia-jaipur/salmanPhoto.jpg)
 
 Finally, thanks to Viktor Petersson and the Screenly team for their continued support
