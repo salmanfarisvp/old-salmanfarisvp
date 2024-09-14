@@ -5,11 +5,11 @@ date: 2021-07-12 10:00:00 +/-0530
 categories: [Project, Tutorial]
 tags: [project,tinyml,hmi]
 image:
-  path: https://hackster.imgix.net/uploads/attachments/1323340/powered_by_(1)_THUZrCwShJ.gif?auto=format%2Ccompress&gifq=35&w=900&h=675&fit=min&fm=mp4
+  path: https://hackster.imgix.net/uploads/attachments/1323340/powered_by_(1)_THUZrCwShJ.gif
   alt: Dino Game Demo.
 ---
 
-![Demo](https://hackster.imgix.net/uploads/attachments/1323340/powered_by_(1)_THUZrCwShJ.gif?auto=format%2Ccompress&gifq=35&w=900&h=675&fit=min&fm=mp4)
+![Demo](https://hackster.imgix.net/uploads/attachments/1323340/powered_by_(1)_THUZrCwShJ.gif)
 
 TL;DR: In this project, we will physically play the Chrome dino game with the help of machine learning and embedded electronics.
 
