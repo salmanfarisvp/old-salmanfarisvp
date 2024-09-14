@@ -21,7 +21,7 @@ _SDR Test_
 Day before the event, for the demo I setup an node with [SeeedStudio Wio Tracker W1100](hhttps://www.seeedstudio.com/Wio-Tracker-1110-Dev-Kit-for-Meshtastic.html) by following their ([documenation]https://wiki.seeedstudio.com/meshtastic_kit_wio_tracker_1110/) and it was so stright forward and easy. 
 
 
-<video src="https://github.com/salmanfarisvp/salmanfarisvp.github.io/raw/main/assets/2024-09-14-makerchat0x4-post-event/Node1.mp4" controls="controls">
+<video src="https://github.com/salmanfarisvp/salmanfarisvp.github.io/raw/main/assets/2024-09-14-makerchat0x4-post-event/Node1.mp4" width="320" height="240" controls>
 </video> 
 
 _Node Setup with SeeedStudio Wio Tracker_
@@ -47,7 +47,7 @@ _Seeed and LilyGo Nodes_
 After the insightful session, we tinkered around with the M5Stack Card computer and FliperZero to showcase some basic attacks and fun experiences on RF networks 😁. We also played with SDR for a while and received FM radio station programs with good audio quality.
 
 
-<video src="https://github.com/salmanfarisvp/salmanfarisvp.github.io/raw/main/assets/2024-09-14-makerchat0x4-post-event/FMviaSDR.mp4" controls="controls">
+<video src="https://github.com/salmanfarisvp/salmanfarisvp.github.io/raw/main/assets/2024-09-14-makerchat0x4-post-event/FMviaSDR.mp4" width="320" height="240" controls>
 </video> 
 
 _Playing FM via SDR_
