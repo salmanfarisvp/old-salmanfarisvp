@@ -1,7 +1,6 @@
 ---
 title: MakerChat0x24: Build a Decentralised Communication Network with Meshtastic - Post Event Update. 
-description: >-
-    Sharing our 36t MakerChat post event details. 
+description: Sharing our 36t MakerChat post event details. 
 author: salman
 date: 2024-09-14 06:45:00 +/-0530
 categories: [Event, Meetup]
@@ -10,8 +9,6 @@ image:
   path: ../assets/2024-09-14-makerchat0x4-post-event/makerchat0x24-heroshot.jpg
   alt: MakerChat0x24 Team Photo.
 ---
-
-# MakerChat0x24 Post Event Update.  
 
 ![Wireless Mic Signal on SDR](../assets/2024-09-14-makerchat0x4-post-even/WirlessMiconSDR.jpg)
 _Wireless Mic Signal on SDR_
