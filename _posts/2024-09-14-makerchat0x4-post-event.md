@@ -1,5 +1,5 @@
 ---
-title: MakerChat0x24: Build a Decentralised Communication Network with Meshtastic - Post Event Update. 
+title: MakerChat0x24:Build a Decentralised Communication Network with Meshtastic - Post Event Update. 
 description: Sharing our 36t MakerChat post event details. 
 author: salman
 date: 2024-09-14 06:45:00 +/-0530
