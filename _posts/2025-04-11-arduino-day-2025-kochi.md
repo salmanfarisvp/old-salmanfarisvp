@@ -23,7 +23,7 @@ It was a short event planned due to the official approval of ArduinoDay, but we 
 
 ✨ When planning the event, we aimed to have a few interesting topics and project showcases. However, it has been challenging to secure speakers, especially for hardware-related subjects. To address this, we shared information about the event during our Maker Thursday gatherings, where we meet at TinkerSpace Kochi every Thursday to discuss various making activities. We also mentioned the difficulty in finding speakers, and as a result, some of our members volunteered to conduct sessions themselves.
 
-![](../assets/2025-04-11-arduino-day-2024-kochi/day-grid-photo.png)
+![Speaker Photo grid](../assets/2025-04-11-arduino-day-2024-kochi/day-grid-photo.png)
 
 
 👏 We would like to extend our gratitude to our amazing speakers. Thank you to Joanne Alice Thomas for the "Introduction to Hardware,"
